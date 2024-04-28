@@ -1,3 +1,5 @@
+import os
+from django.conf import settings
 """
 Django settings for mysite project.
 
